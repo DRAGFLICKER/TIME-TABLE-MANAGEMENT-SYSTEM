@@ -6,4 +6,4 @@ devleoping tools are
 - SQLite
 - Tkiner
   
-![Uploading image.png…]()
+
